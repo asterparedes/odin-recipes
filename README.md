@@ -1,1 +1,1 @@
-# odin-recipes
+The first Odin project I completed. It is simple for now but planning to develop. 
